@@ -17,7 +17,6 @@ But you can also put it in without spaces like this: 023DA2B8
 > arxmf 023DA2B8
 ```
 
-```
 
 ## Installation:
 ```bash
